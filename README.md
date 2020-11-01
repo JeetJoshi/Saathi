@@ -1,3 +1,6 @@
 # Saathi
 Hello and welcome to Saathi.....
 
+Here, mysite.zip contains the whole Project about Alternate Crop Recommendation system........
+
+
